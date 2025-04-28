@@ -101,7 +101,3 @@ Creating a **3D bounce game** using **WebGL** similar to *Astray* within **4 wee
 - **JavaScript** (game logic & physics)  
 - **GLSL** (shaders for lighting & effects)  
 - **GitHub Pages** (for hosting)  
-
----
-
-Would you like **code snippets** for any specific part, such as **collision detection or ball physics**? 🚀
